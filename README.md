@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akorelii" alt="akorelii" /></a> </p>
 
-- 🔭 I’m currently working on **C#**
+- 🔭 I’m currently working on **C#** and **SQL / MySQL**
 
 - 🌱 I’m currently learning **.NET**
 
