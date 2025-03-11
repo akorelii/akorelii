@@ -5,13 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akorelii" alt="akorelii" /></a> </p>
 
-- 🔭 I’m currently working on **C#** and **SQL / MySQL**
+- 🔭 I’m currently working on **JAVA** and **SQL / MySQL**
 
-- 🌱 I’m currently learning **.NET**
+- 🌱 I’m currently learning **Spring Framework**
 
 - 📫 How to reach me **akorelii.00@gmail.com**
-
-- ⚡ Fun fact **I create Instagram videos**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
